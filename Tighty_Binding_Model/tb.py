@@ -1,3 +1,6 @@
+# Name - Aman Pradhan
+# Roll Number - 2311020
+# Assignment - Tight Binding model
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
