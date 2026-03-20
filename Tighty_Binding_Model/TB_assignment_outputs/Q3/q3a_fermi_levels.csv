@@ -1,0 +1,8 @@
+filling,fermi_energy_eV,band_min_eV,band_max_eV,filling_fraction_of_states,plot_file,state_fraction
+0.5,-2.913667,-8.0,7.999558,0.25,TB_assignment_outputs\Q3a\plots\q3a_n_0.50.png,0.25
+0.75,-1.167899,-8.0,7.999558,0.375,TB_assignment_outputs\Q3a\plots\q3a_n_0.75.png,0.375
+1.0,-0.019727,-8.0,7.999558,0.5,TB_assignment_outputs\Q3a\plots\q3a_n_1.00.png,0.5
+1.25,1.109905,-8.0,7.999558,0.625,TB_assignment_outputs\Q3a\plots\q3a_n_1.25.png,0.625
+1.5,2.854727,-8.0,7.999558,0.75,TB_assignment_outputs\Q3a\plots\q3a_n_1.50.png,0.75
+1.75,5.141333,-8.0,7.999558,0.875,TB_assignment_outputs\Q3a\plots\q3a_n_1.75.png,0.875
+2.0,7.999558,-8.0,7.999558,1.0,TB_assignment_outputs\Q3a\plots\q3a_n_2.00.png,1.0
