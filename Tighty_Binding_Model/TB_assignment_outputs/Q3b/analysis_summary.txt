@@ -1,0 +1,43 @@
+Q3(b) ANALYSIS: EFFECT OF NEXT-NEAREST-NEIGHBOUR HOPPING
+
+
+Model Description:
+- Square lattice with nearest and next-nearest neighbour hopping
+- Nearest-neighbour hopping: t = -2.00 eV
+- Next-nearest neighbour hopping: t'' = ±1.0 eV
+
+Band Structure:
+- Energy range: [-12.0000, 4.0000] eV
+- Dispersion: E(k) = -2t (cos kx + cos ky) - 4t'' cos kx cos ky
+
+Numerical Results:
+- Half-filling Fermi energy (t'' = -1.0 eV): Ef ≈ -1.9653 eV
+- Half-filling Fermi energy (t'' = +1.0 eV): Ef ≈ 1.9066 eV
+
+Comparison with Q3(a):
+- Q3(a) had particle-hole symmetry
+- Inclusion of t'' breaks this symmetry
+- Fermi level shifts away from band center
+
+Fermi Surface Evolution:
+- t'' > 0:
+  * Fermi surface becomes more rounded
+  * Band curvature increases
+
+- t'' < 0:
+  * Fermi surface becomes more square-like
+  * Strong anisotropy appears
+
+Physical Interpretation:
+- Next-nearest hopping introduces diagonal electronic pathways
+- This modifies band curvature and density of states
+- Breaks particle-hole symmetry of the lattice
+
+Topological Insight:
+- Change in Fermi surface shape indicates possible Lifshitz transition
+- Electronic properties strongly depend on sign of t''
+
+Conclusion:
+- Inclusion of t'' significantly alters electronic structure
+- Sign of t'' controls Fermi surface geometry
+- System shows richer physics compared to nearest-neighbour model

@@ -1,0 +1,15 @@
+t_diag_eV,filling,fermi_energy_eV,band_min_eV,band_max_eV,filling_fraction_of_states,plot_file,state_fraction
+-1.0,0.5,-3.694094,-4.0,11.999117,0.25,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_0.50.png,0.25
+-1.0,0.75,-3.086705,-4.0,11.999117,0.375,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_0.75.png,0.375
+-1.0,1.0,-1.965326,-4.0,11.999117,0.5,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_1.00.png,0.5
+-1.0,1.25,-0.139934,-4.0,11.999117,0.625,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_1.25.png,0.625
+-1.0,1.5,2.605497,-4.0,11.999117,0.75,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_1.50.png,0.75
+-1.0,1.75,6.542664,-4.0,11.999117,0.875,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_1.75.png,0.875
+-1.0,2.0,11.999117,-4.0,11.999117,1.0,TB_assignment_outputs\Q3b\plots\td_-1.0\q3b_td_-1.0_n_2.00.png,1.0
+1.0,0.5,-2.706594,-12.0,4.0,0.25,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_0.50.png,0.25
+1.0,0.75,0.059327,-12.0,4.0,0.375,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_0.75.png,0.375
+1.0,1.0,1.906553,-12.0,4.0,0.5,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_1.00.png,0.5
+1.0,1.25,3.049356,-12.0,4.0,0.625,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_1.25.png,0.625
+1.0,1.5,3.675209,-12.0,4.0,0.75,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_1.50.png,0.75
+1.0,1.75,3.944143,-12.0,4.0,0.875,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_1.75.png,0.875
+1.0,2.0,4.0,-12.0,4.0,1.0,TB_assignment_outputs\Q3b\plots\td_+1.0\q3b_td_+1.0_n_2.00.png,1.0
