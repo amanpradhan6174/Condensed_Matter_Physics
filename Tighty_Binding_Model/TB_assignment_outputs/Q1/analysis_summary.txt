@@ -1,0 +1,30 @@
+Q1 ANALYSIS: TWO-LEG LADDER MODEL
+----------------------------------
+
+Model Description:
+- System: Two-leg ladder
+- Nearest-neighbour hopping along chain: t = 1.00
+- Inter-chain hopping: t'
+
+Numerical Results:
+- Minimum gap observed: -4.0000
+- Maximum gap observed: 4.0000
+- Estimated critical point: t' ≈ 2.0000
+
+Band Structure Interpretation:
+- Energy dispersion: E(k) = -2t cos(k) ± t'
+- Increasing t' splits bonding and antibonding bands
+
+Phase Behaviour:
+- For t' < 2.00: bands overlap → METALLIC phase
+- At t' ≈ 2.00: gap closes → CRITICAL point
+- For t' > 2.00: finite gap → INSULATING phase
+
+Physical Insight:
+- Inter-chain coupling enhances localization
+- The transition occurs when t' ≈ 2t
+- No re-entrant phase is observed (single transition)
+
+Conclusion:
+- The ladder system exhibits a single metal–insulator transition
+- Controlled entirely by inter-chain hopping strength
