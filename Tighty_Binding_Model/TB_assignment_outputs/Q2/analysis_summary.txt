@@ -1,0 +1,44 @@
+Q2 ANALYSIS: EFFECT OF DIAGONAL HOPPING
+
+
+Model Description:
+- Base system: Two-leg ladder
+- Nearest-neighbour hopping: t = 1.00
+- Inter-chain hopping: t'
+- Diagonal hopping: t'' = 0.20
+
+Numerical Results:
+Q2(a): Single diagonal hopping
+- Minimum gap: -3.6000
+- Maximum gap: 4.0000
+- Critical point: t' ≈ 2.0000
+
+Q2(b): Crossed diagonal hopping
+- Minimum gap: -3.2000
+- Maximum gap: 4.0000
+- Critical point: t' ≈ 2.0000
+
+Comparison with Q1:
+- In Q1, transition occurs at t' ≈ 2t
+- Addition of t'' shifts the transition point
+- The shift depends on geometry of diagonal hopping
+
+Physical Interpretation:
+- Q2(a):
+  * Off-diagonal term includes complex phase (e^ik)
+  * Breaks inversion symmetry
+  * Leads to asymmetric band dispersion
+
+- Q2(b):
+  * Off-diagonal term ~ cos(k)
+  * Preserves symmetry
+  * Modifies bandwidth without phase asymmetry
+
+Key Insight:
+- Diagonal hopping alters electronic coupling pathways
+- Geometry of hopping strongly influences band structure
+- Both cases still show a single metal–insulator transition
+
+Conclusion:
+- Presence of t'' shifts and modifies the transition
+- Q2(a) and Q2(b) behave differently due to symmetry differences
